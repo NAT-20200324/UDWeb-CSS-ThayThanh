@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-image:url(../images/bg3.gif);}
+.table{ 
+	width:70%;
+	background-color:#FFF;  
+	margin-left:auto;
+	margin-right:auto;
+}
+table.table td{
+	padding: 5px;
+}
+.thead{
+	color:#00C;
+	text-align:center;
+}
+.w100{
+	width:100%;
+}
+.right-img{
+}
+.trbgColor{
+	color:#000;
+}
+textarea{
+	width:50%;
+	height:100px;
+}
+.footer{
+	background-color:#0A70A4;
+}
+ul{
+	list-style-type:none;
+}
+
